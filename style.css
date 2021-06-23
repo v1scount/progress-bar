@@ -1,0 +1,26 @@
+body {
+}
+button {
+  margin: 0 .16rem;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+
+}
+#progress-bar {
+  display: flex;
+}
+
+.cell {
+  width: 1.5rem;
+  height: 1.5rem;
+  border: .16rem solid black;
+  margin-right: .32rem;
+}
+
+.buttons {
+  display: flex;
+  margin-top: .5rem;
+}
